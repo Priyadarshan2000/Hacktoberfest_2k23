@@ -1,5 +1,5 @@
 
-# ESP32 Webserver Live Dashboard: A Real-time Wonderland
+# ESP32 Webserver Live Dashboard
 
 ### 🌟 Welcome to the ESP32 IoT Marvel repository! 🌟
 
