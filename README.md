@@ -13,7 +13,7 @@
 
 🏆 🏆 **Rewards :** 🏆🏆
 
-You get some awesome goodies which include A limited-edition T-shirt  for **FREE!** and some stickers.
+You get some awesome goodies which include A limited-edition Tree Plant  for **FREE!** 
 
 🤔🤔**How can you Join** :grey_question::grey_question:
 
