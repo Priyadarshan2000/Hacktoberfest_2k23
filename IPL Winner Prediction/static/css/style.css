@@ -1,0 +1,45 @@
+/* Style for the form elements */
+form {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="number"],
+select {
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  font-size: 100px;
+  margin-bottom: 20px;
+}
+
+select {
+  margin-bottom: 30px;
+}
+
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+/* Style for the result */
+p {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 30px;
+}
