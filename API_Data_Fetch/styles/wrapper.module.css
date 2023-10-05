@@ -1,0 +1,19 @@
+.header {
+    text-align: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons button {
+    margin: 1rem;
+    padding: 1rem 2rem;
+    border-radius: 6px;
+}
+
+.buttons button:hover {
+    cursor: pointer;
+}
