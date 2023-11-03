@@ -1,4 +1,3 @@
-
 ![image](https://github.com/Priyadarshan2000/JavaScript-Projects/assets/62868878/6bf566ce-d748-42c5-a207-e102e968618a)
   
   
